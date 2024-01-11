@@ -1,2 +1,2 @@
 # Millenium-RAT
-Fully telegram-controlled rat, no dedicated server needed for usage. ✨Only for 30$ in 2024✨. Please read the README file before
+Telegram-controlled rat, no dedicated server needed for usage. ✨The price in 2024 is 30$✨. Contact me by Telegram to buy: <em>**@chinyenimga**</em> Please read the README file before
