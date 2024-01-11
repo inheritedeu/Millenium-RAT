@@ -12,7 +12,6 @@ Telegram-controlled Windows RAT, no dedicated server needed for usage. ✨The pr
 <br />🔹Single .net exe without dependences
 <br />🔹Separated cookie grabbing
 <br />🔹Self-installing/No self-installing
-
 <br />
 <br />⭐️ Options :
 <br />🔶Keylogger
